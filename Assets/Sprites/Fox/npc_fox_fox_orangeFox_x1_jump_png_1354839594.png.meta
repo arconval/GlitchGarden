@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: e2f2db36d89f9ff42b045cb9e7a937c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3168424135161412311
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
+  - first:
+      213: -7028851218548601368
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
+  - first:
+      213: 4041679292091900767
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
+  - first:
+      213: -1246769536793968453
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
+  - first:
+      213: -4457674778403022952
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
+  - first:
+      213: -7015255989841585392
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
+  - first:
+      213: 6932295669153170717
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
+  - first:
+      213: -631146277847638601
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
+  - first:
+      213: -5550144657605486372
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
+  - first:
+      213: 6908219862776391256
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
+  - first:
+      213: -3396762354369033201
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
+  - first:
+      213: -283367129927290603
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
+  - first:
+      213: 5302426238915626080
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
+  - first:
+      213: -8578817338305256063
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
+  - first:
+      213: 951827293345816319
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
+  - first:
+      213: -1815367257531700708
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
+  - first:
+      213: -6416630919670664435
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
+  - first:
+      213: 107507712125722259
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
+  - first:
+      213: 3740328939861685167
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
+  - first:
+      213: 924951687672747117
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
+  - first:
+      213: -4483299274522312648
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
+  - first:
+      213: 5585618818996940356
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
+  - first:
+      213: -3397733745436216677
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
+  - first:
+      213: 2681088715384102683
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
+  - first:
+      213: -2764180252616696947
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
+  - first:
+      213: -190156846793021557
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
+  - first:
+      213: 7595229132445947772
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
+  - first:
+      213: 5102516022127436843
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
+  - first:
+      213: 918251758320421360
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
+  - first:
+      213: 5284942623838039346
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
+  - first:
+      213: -7708688252542632836
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
+  - first:
+      213: -6813280421252469177
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
+  - first:
+      213: 1938334282629866640
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
+  - first:
+      213: -4650560067887136986
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
+  - first:
+      213: -5785651193691058216
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
+  - first:
+      213: 6900638994018979534
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
+  - first:
+      213: 8492777446971299969
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
+  - first:
+      213: 8460603047128854764
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
+  - first:
+      213: -5089145141561215938
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
+  - first:
+      213: 5976698879990513368
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
+  - first:
+      213: -8543051444240686543
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
+  - first:
+      213: 875005758860615433
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
+  - first:
+      213: 6942972222524417817
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
+  - first:
+      213: 8080606547857294607
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
+  - first:
+      213: 5503605899895423475
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
+  - first:
+      213: -4446426449193709979
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
+  - first:
+      213: 5376839532239140057
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
+  - first:
+      213: -5257003852847517726
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
+  - first:
+      213: 3819773590779105818
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
+  - first:
+      213: -5320244440267868419
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
+  - first:
+      213: 7427985310681922291
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
+  - first:
+      213: 7631240896397002888
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
+  - first:
+      213: -5035999234293323941
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
+  - first:
+      213: 3351306178981005062
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
+  - first:
+      213: 996584042338723971
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
+  - first:
+      213: 9110346016335993434
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
+  - first:
+      213: 4833493486934172636
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_28
+  - first:
+      213: 2462605940293204074
+    second: npc_fox_fox_orangeFox_x1_jump_png_1354839594_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9011deb194ebc00800000000000000
+      internalID: 918251758320421360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23def28c053e75940800000000000000
+      internalID: 5284942623838039346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c38fe60ec350590800000000000000
+      internalID: -7708688252542632836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e6f102e8d5271a0800000000000000
+      internalID: -6813280421252469177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0946d14a2c856ea10800000000000000
+      internalID: 1938334282629866640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f78fa0244e57fb0800000000000000
+      internalID: -4650560067887136986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfcabd94ec35bfa0800000000000000
+      internalID: -5785651193691058216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec5b99a9ef3cf50800000000000000
+      internalID: 6900638994018979534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885c2367186cd570800000000000000
+      internalID: 8492777446971299969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f3b925a91a6570800000000000000
+      internalID: 8460603047128854764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b6da0579bf59b0800000000000000
+      internalID: -5089145141561215938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de3f4727ff71f250800000000000000
+      internalID: 5976698879990513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132652879fbf07980800000000000000
+      internalID: -8543051444240686543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fde490a15a42c00800000000000000
+      internalID: 875005758860615433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e8f073746a5060800000000000000
+      internalID: 6942972222524417817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05cab6a7d4142070800000000000000
+      internalID: 8080606547857294607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c207186cb06c40800000000000000
+      internalID: 5503605899895423475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e48efd3be1b42c0800000000000000
+      internalID: -4446426449193709979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4346d111f5e9a40800000000000000
+      internalID: 5376839532239140057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe92049de5b07b0800000000000000
+      internalID: -5257003852847517726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129ec0c7df820530800000000000000
+      internalID: 3819773590779105818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df636939ed1ba26b0800000000000000
+      internalID: -5320244440267868419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf300f841851760800000000000000
+      internalID: 7427985310681922291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884d29c92d97e960800000000000000
+      internalID: 7631240896397002888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57aec6d0698c1ab0800000000000000
+      internalID: -5035999234293323941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070cbbb63b328e20800000000000000
+      internalID: 3351306178981005062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882c6808e394dd00800000000000000
+      internalID: 996584042338723971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_jump_png_1354839594_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1a94ee637e6e70800000000000000
+      internalID: 9110346016335993434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
